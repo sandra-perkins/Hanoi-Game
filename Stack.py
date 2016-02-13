@@ -1,5 +1,4 @@
 # Stack.py
-#
 # by David M. Reed and John Zelle
 # from Data Structures and Algorithms Using Python and C++
 # downloaded from publisher's website:
