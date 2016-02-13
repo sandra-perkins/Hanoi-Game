@@ -1,5 +1,5 @@
 # Author: Sandra
-# Assignment: Final Project
+# Assignment: Final Project for Data Structures
 # Purpose: To understand stacks better, to create a game similar to the card game Hanoi which is similar the Tower of Hanoi
 # Started: I modified three functions from the war game, which was the init, create_dealingPile, and the deal function
 # Acknowledgements: stackoverflow which I used code from in the function redeal, this helped with the layout of the stacks
